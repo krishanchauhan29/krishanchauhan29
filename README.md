@@ -24,6 +24,4 @@ I'm Krishan Kumar Chauhan, a Data Science postgraduate from Gautam Buddha Univer
 ![](https://github-profile-trophy.vercel.app/?username=krishanchauhan29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=krishanchauhan29&icon=0&color=0)]
-
 <!-- Proudly created By Krishan Kumar Chauhan, M.Tech Data Science, GBU -->
