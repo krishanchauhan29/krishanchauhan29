@@ -1,4 +1,6 @@
 # 💫 About Me:
+I'm Krishan Kumar Chauhan, a Data Science postgraduate from Gautam Buddha University with an Integrated B.Tech + M.Tech in CSE (Data Science Specialization). I'm a published researcher with work accepted at the IEEE Xplore NetCrypt International Conference 2026, where my deep learning model outperformed as state-of-the-art in medical image classification. I'm passionate about building end-to-end AI/ML solutions that solve real-world problems from NLP sentiment analysis to computer vision and business analytics dashboards. I enjoy working across the full data pipeline, from raw data to deployed applications, and I'm actively seeking opportunities in Data Science, Machine Learning, and AI Engineering roles.
+
 - 🔭 I’m currently working on Building end-to-end AI/ML projects in medical imaging and NLP, and actively exploring deep learning applications in healthcare.
 - 🌱 I’m currently learning Advanced deep learning architectures, MLOps, and Google Data Analytics (Coursera).
 - 👯 I’m looking to collaborate on Data Science, Machine Learning, and AI projects — especially in healthcare AI, NLP, and computer vision domains.
