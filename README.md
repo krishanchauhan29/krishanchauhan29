@@ -12,11 +12,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 Integrated B.Tech + M.Tech in **CSE (Data Science)** from Gautam Buddha University, Greater Noida
-- 🔬 Published Researcher — **IEEE NetCrypt 2026** | Deep Learning for Medical Imaging
-- 🧠 My M.Tech dissertation model outperformed the prior State-of-the-Art in automated liver cirrhosis classification from MRI scans — published at **IEEE NetCrypt 2026**
-- 🚀 Building end-to-end AI/ML solutions in **Medical Imaging, NLP & Business Analytics**
+- 🔬 Published Researcher — **IEEE Xplore via NetCrypt 2026**
+- 🧠 My M.Tech dissertation model outperformed the prior State-of-the-Art in automated liver cirrhosis classification from MRI scans — published at **IEEE Xplore 2026**
+- 🚀 Building end-to-end DS, AI/ML solutions in **Medical Imaging, NLP & Business Analytics**
 - 📊 Actively seeking roles in **Data Science | AI-ML Engineering | Data Analytics**
-- 📫 Reach me at **krrishnachauhan29@gmail.com**, **215ics054@gbu.ac.in**
+- 📫 Reach me at **krrishnachauhan29@gmail.com**
 
 ---
 
