@@ -78,13 +78,13 @@
 
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
-| 🧠 [AG-DenseNet121](https://github.com/krishanchauhan29/ag-densenet121-liver-cirrhosis) | Liver Cirrhosis MRI Classification — **IEEE Published** — +13.44pp over SotA | PyTorch, Grad-CAM, SHAP | Research |
+| 🧠 [AG-DenseNet121](https://github.com/krishanchauhan29/ag-densenet121-liver-cirrhosis) | Liver Cirrhosis MRI Classification **IEEE Published** +13.44pp over SotA | PyTorch, Grad-CAM, SHAP | Research |
 | 📊 [InsightPro BI Platform](https://github.com/krishanchauhan29/realtime-bi-platform) | Enterprise Real-Time BI with live APIs, ARIMA forecasting, MongoDB, SQL | Pandas, Plotly, Folium, Streamlit | [Live](https://realtime-bi-platform292003.streamlit.app/) |
 | 🎯 [ATS Resume Analyzer](https://github.com/krishanchauhan29/ats-resume-analyzer) | AI-powered ATS scoring across 19 job roles with Excel + PDF reports | NLTK, PDFPlumber, Streamlit | [Live](https://ats-resume-analyzer292003.streamlit.app/) |
 | 💬 [NLP Sentiment Analyzer](https://github.com/krishanchauhan29/nlp-sentiment-analysis) | Multi-class sentiment analysis using RoBERTa transformer | HuggingFace, PyTorch, Streamlit | [Live](https://nlp-sentiment-analysis292003.streamlit.app/) |
 | 🤖 [Smart Analytics Engine](https://github.com/krishanchauhan29/smart-analytics-engine) | AI-powered auto analytics for any dataset (CSV, Excel, PDF, Image) | Sklearn, PDFPlumber, Streamlit | [Live](https://smart-analytics-engine292003.streamlit.app/) |
-| 🔮 [Customer Churn Prediction](https://github.com/krishanchauhan29/customer-churn-prediction) | ML pipeline — 86.09% accuracy, $168K revenue at risk identified | Sklearn, SMOTE, Streamlit | [Live](https://customer-churn-prediction292003.streamlit.app/) |
-| 👥 [HR Analytics Pipeline](https://github.com/krishanchauhan29/hr-analytics-pipeline) | SQL-style HR attrition analytics — 20.6% dept attrition uncovered | Pandas, Plotly, Streamlit | [Live](https://hr-analytics-pipeline292003.streamlit.app/) |
+| 🔮 [Customer Churn Prediction](https://github.com/krishanchauhan29/customer-churn-prediction) | ML pipeline 86.09% accuracy, $168K revenue at risk identified | Sklearn, SMOTE, Streamlit | [Live](https://customer-churn-prediction292003.streamlit.app/) |
+| 👥 [HR Analytics Pipeline](https://github.com/krishanchauhan29/hr-analytics-pipeline) | SQL-style HR attrition analytics 20.6% dept attrition uncovered | Pandas, Plotly, Streamlit | [Live](https://hr-analytics-pipeline292003.streamlit.app/) |
 | 📈 [Sales Analytics Dashboard](https://github.com/krishanchauhan29/sales-analytics-dashboard) | 9,994 transaction records analyzed with KPI cards & 6 Plotly charts | Pandas, Plotly, Streamlit | [Live](https://sales-analytics-dashboard292003.streamlit.app/) |
 | ⛓️ [Decentralized Crowdfunding](https://github.com/krishanchauhan29/crowdfunding-web3) | Blockchain-based crowdfunding on Ethereum with smart contracts | Solidity, Web3.js, React | [Live](https://crowdfunding-lyart-rho.vercel.app/) |
 
