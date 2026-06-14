@@ -27,6 +27,7 @@
 - 💼 Data Science & Analyst Intern @ **Zidio Development** (Jun–Aug 2025)
 - 🏆 HackerRank — **Python 5⭐ | C/C++ 4⭐ | SQL Certified**
 - 📊 Actively seeking roles in **Data Science | AI/ML Engineering | Data Analytics**
+- Check out my portfolio website **https://krishanchauhanportfolio.vercel.app/**
 - 📫 Reach me at **krrishnachauhan29@gmail.com**
 
 ---
