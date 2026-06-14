@@ -116,10 +116,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanchauhan29&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishanchauhan29&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
 ---
 
 <p align="center">
